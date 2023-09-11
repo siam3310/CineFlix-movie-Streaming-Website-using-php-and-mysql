@@ -139,7 +139,6 @@ if (isset($_POST['sub'])) {
 				<li class="sidebar__nav-item">
 					<a href="catalog.php" class="sidebar__nav-link"><i class="icon ion-ios-film"></i> <span>Catalog</span></a>
 				</li>
-				
 
 				<li class="sidebar__nav-item">
 					<a href="premiere_item.php" class="sidebar__nav-link sidebar__nav-link"><i class="icon ion-ios-film"></i> <span>Premiere Items</span></a>
@@ -169,7 +168,7 @@ if (isset($_POST['sub'])) {
 					<a href="comments.php" class="sidebar__nav-link sidebar__nav-link"><i class="icon ion-ios-star-half"></i> <span>Comments</span></a>
 				</li>
 				<li class="sidebar__nav-item">
-					<a href="https://cineflix.volkovdesign.com/main/index.php" class="sidebar__nav-link"><i class="icon ion-ios-arrow-round-back"></i> <span>Back to CineFlix</span></a>
+					<a href="https://cineflix.volkovdesign.com/main/index.php" class="sidebar__nav-link"><i class="icon ion-ios-arrow-round-back"></i> <span>Back to HotFlix</span></a>
 				</li>
 			</ul>
 		</div>

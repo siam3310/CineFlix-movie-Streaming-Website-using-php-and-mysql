@@ -91,10 +91,6 @@ if (!isset($_SESSION['e'])) {
                 <li class="sidebar__nav-item">
                     <a href="catalog.php" class="sidebar__nav-link"><i class="icon ion-ios-film"></i> <span>Catalog</span></a>
                 </li>
-                <li class="sidebar__nav-item">
-					<a href="premiere_item.php" class="sidebar__nav-link sidebar__nav-link"><i class="icon ion-ios-film"></i> <span>Premiere Items</span></a>
-				</li>
-
 
                 <!-- collapse -->
                 <li class="sidebar__nav-item">

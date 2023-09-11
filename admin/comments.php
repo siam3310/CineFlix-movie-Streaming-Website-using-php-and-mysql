@@ -123,7 +123,7 @@ if (!isset($_SESSION['e'])) {
 				</li>
 
 				<li class="sidebar__nav-item">
-					<a href="https://Cineflix.volkovdesign.com/main/index.php" class="sidebar__nav-link"><i class="icon ion-ios-arrow-round-back"></i> <span>Back to CineFlix</span></a>
+					<a href="https://Cineflix.volkovdesign.com/main/index.php" class="sidebar__nav-link"><i class="icon ion-ios-arrow-round-back"></i> <span>Back to HotFlix</span></a>
 				</li>
 			</ul>
 		</div>
